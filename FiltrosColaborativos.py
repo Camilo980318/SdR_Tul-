@@ -16,6 +16,7 @@ import math
 
 from datetime import datetime, date, timedelta
 
+# COMENTARIO NUEVO
 # =============================================================================
 # Lectura de datos de entrada: Main, Clientes, Productos
 # =============================================================================
